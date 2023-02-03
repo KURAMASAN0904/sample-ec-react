@@ -17,6 +17,10 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+.env.production
+./node_modules
+./functions/node_modules
+.firestore-debug.log
 *.suo
 *.ntvs*
 *.njsproj
