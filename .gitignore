@@ -18,6 +18,7 @@ dist-ssr
 .idea
 .DS_Store
 .env.production
+.prettierrc
 ./node_modules
 ./functions/node_modules
 .firestore-debug.log
